@@ -23,8 +23,6 @@ Detection of road objects using pre-trained models.
 
 `conda activate cv_env`
 
-`conda install -c anaconda ipykernel`
-
 `python -m ipykernel install --user --name=cv_env`
 
 `conda deactivate`
