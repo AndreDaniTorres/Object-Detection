@@ -20,9 +20,13 @@ Detection of road objects using pre-trained models.
 `mkdir vid_analyze`
 
 --> create the kernel
+
 `conda activate cv_env`
+
 `conda install -c anaconda ipykernel`
+
 `python -m ipykernel install --user --name=cv_env`
+
 `conda deactivate`
 
 --> Run the Jupyter notebook *soporte.ipynb*
